@@ -1,0 +1,43 @@
+.first_link{
+    display: inline-block;
+    background-color: #dbd94e90;
+    font-weight: bold;
+    transition: all .6s ease-in-out;
+}
+.first_link:hover{
+    display: inline-block;
+    width: 180px;
+    z-index: 100;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    transition: all .6s ease-in;
+}
+.last_hover:hover{
+    display: inline-block;
+    width: 120px;
+}
+.second_link{
+    display: inline-block;
+    font-weight: bold;
+    transition: all .6s ease-in-out;
+}
+.second_link:hover{
+    display: inline-block;
+    width: 120px;
+    z-index: 100;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    text-align: center;
+    transition: all .6s ease-in;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.myColor{
+    color: #878638;
+}
+.card:hover{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+    z-index: 100;
+}
